@@ -12,6 +12,6 @@ In WEBKATA, I solved 167 questions for the tasks 11 (50 questions), 12 (50 quest
 CODEKATA - Input/Output - I solved 10 questions.
 CODEKATA - Strings - I solved 43 questions.
 
-In WEBKATA, I solved 53 questions for the task 11 (50 questions).
+In CODEKATA, I solved 53 questions for the task 11 (50 questions).
 
 ![CODEKATA_SOLVED](https://github.com/AnbarasiC/TASK-11/assets/147256510/4cc54b20-dead-40e9-a431-f5905f24c487)
